@@ -3,41 +3,6 @@
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Invalid
-OutlineFileName:C:\Users\Gabriele\Desktop\PoliMi\secondo semestre\laboratorio fondamenti di progetto\terza consegna\tavole\Document fonts\._AdobeFnt14.lst
-FileModTime:1493200390
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Invalid
-OutlineFileName:C:\Users\Gabriele\Desktop\PoliMi\secondo semestre\laboratorio fondamenti di progetto\terza consegna\tavole\Document fonts\._Helvetica.dfont
-FileModTime:1493200390
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Invalid
-OutlineFileName:C:\Users\Gabriele\Desktop\PoliMi\secondo semestre\laboratorio fondamenti di progetto\terza consegna\tavole\Document fonts\._Montserrat-Bold.ttf
-FileModTime:1493200390
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Invalid
-OutlineFileName:C:\Users\Gabriele\Desktop\PoliMi\secondo semestre\laboratorio fondamenti di progetto\terza consegna\tavole\Document fonts\._WorkSans-Light.ttf
-FileModTime:1493200390
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Invalid
-OutlineFileName:C:\Users\Gabriele\Desktop\PoliMi\secondo semestre\laboratorio fondamenti di progetto\terza consegna\tavole\Document fonts\Helvetica.dfont
-FileModTime:1475417696
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
 FontType:TrueType
 FontName:Montserrat-Bold
 FamilyName:Montserrat
@@ -46,11 +11,11 @@ FullName:Montserrat-Bold
 MenuName:Montserrat
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\Gabriele\Desktop\PoliMi\secondo semestre\laboratorio fondamenti di progetto\terza consegna\tavole\Document fonts\Montserrat-Bold.ttf
+OutlineFileName:C:\Users\Amanda\Documents\PoliMi\2I - Lab di fondamenti  del progetto\02 CLOUD HOUSE\seconda esercitazione_format A2_170427 Folder\Document fonts\Montserrat-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:29560
-FileModTime:1323734400
+FileModTime:1487193072
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -68,11 +33,11 @@ FullName:Work Sans Light
 MenuName:Work Sans Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Gabriele\Desktop\PoliMi\secondo semestre\laboratorio fondamenti di progetto\terza consegna\tavole\Document fonts\WorkSans-Light.ttf
+OutlineFileName:C:\Users\Amanda\Documents\PoliMi\2I - Lab di fondamenti  del progetto\02 CLOUD HOUSE\seconda esercitazione_format A2_170427 Folder\Document fonts\WorkSans-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:136980
-FileModTime:1436306400
+FileModTime:1487193072
 WeightClass:300
 WidthClass:5
 AngleClass:0
