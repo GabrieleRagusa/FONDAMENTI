@@ -4,8 +4,8 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\Amanda\Documents\GitHub\FONDAMENTI\impaginazione\Document fonts\Helvetica.dfont
-FileModTime:1496826107
+OutlineFileName:C:\Users\Amanda\Documents\GitHub\FONDAMENTI\00 - Format tavole e indicazioni\Document fonts\Helvetica.dfont
+FileModTime:1496824634
 %EndFont
 
 %BeginFont
@@ -18,11 +18,11 @@ FullName:Montserrat-Bold
 MenuName:Montserrat
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\Amanda\Documents\GitHub\FONDAMENTI\impaginazione\Document fonts\Montserrat-Bold.ttf
+OutlineFileName:C:\Users\Amanda\Documents\GitHub\FONDAMENTI\00 - Format tavole e indicazioni\Document fonts\Montserrat-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:29560
-FileModTime:1496826107
+FileModTime:1496824634
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -40,11 +40,11 @@ FullName:Work Sans Light
 MenuName:Work Sans Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Amanda\Documents\GitHub\FONDAMENTI\impaginazione\Document fonts\WorkSans-Light.ttf
+OutlineFileName:C:\Users\Amanda\Documents\GitHub\FONDAMENTI\00 - Format tavole e indicazioni\Document fonts\WorkSans-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 FileLength:136980
-FileModTime:1496826107
+FileModTime:1496824634
 WeightClass:300
 WidthClass:5
 AngleClass:0
