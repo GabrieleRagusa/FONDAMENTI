@@ -1,0 +1,45 @@
+%!Adobe-FontList 1.15
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat-Bold
+WritingScript:Roman
+OutlineFileName:\Montserrat-Bold.ttf
+DataFormat:sfntData
+FileLength:29560
+FileModTime:1487196672
+NameArray:0,Mac,4,Montserrat-Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:WorkSans-Light
+FamilyName:Work Sans
+StyleName:Light
+MenuName:Work Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Work Sans Light
+WritingScript:Roman
+OutlineFileName:\WorkSans-Light.ttf
+DataFormat:sfntData
+FileLength:136980
+FileModTime:1487196672
+NameArray:0,Win,1,Work Sans Light
+NameArray:0,Win,16,Work Sans
+%EndFont
+
